@@ -1,0 +1,9 @@
+# dependencies
+/concept-test-front/node_modules/
+/concept-test-front/.env
+/concept-test-back/node_modules/
+/concept-test-back/.env
+/.pnp
+.pnp.js 
+
+.DS_Store
